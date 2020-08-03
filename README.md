@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/BennbuildVGC/android_controller) 
+ ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/android_controller) ![GitHub](https://img.shields.io/github/license/BennbuildVGC/android_controller) 
 
 # android-controller
 A python module to control your android phone
